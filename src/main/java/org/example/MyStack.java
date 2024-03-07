@@ -7,6 +7,7 @@ public class MyStack<E> extends ArrayList<E> {
 
     public void push(E e) {
         add(e);
+        System.out.println(e);
     }
 
     public E pop() {
