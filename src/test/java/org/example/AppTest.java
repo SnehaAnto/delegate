@@ -37,5 +37,6 @@ public class AppTest extends TestCase {
         stack.push(1);
         stack.push(2);
         assertEquals(Integer.valueOf(2), stack.pop());
+        assertEquals(Integer.valueOf(2), stack.pop());
     }
 }
