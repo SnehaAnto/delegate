@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4163215-ae17-470c-8543-c1eed7b56463" name="Changes" comment="delegate- Field to hold ArrayList">
+    <list default="true" id="a4163215-ae17-470c-8543-c1eed7b56463" name="Changes" comment="Modified test">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709768219484</updated>
-      <workItem from="1709768220569" duration="3649000" />
+      <workItem from="1709768220569" duration="4081000" />
     </task>
     <task id="LOCAL-00001" summary="Initial code">
       <created>1709768445560</created>
@@ -94,7 +94,28 @@
       <option name="project" value="LOCAL" />
       <updated>1709771663530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Remove inheritance">
+      <created>1709771917539</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709771917539</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added test">
+      <created>1709772051863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709772051863</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Modified test">
+      <created>1709772074864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709772074864</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +125,9 @@
     <MESSAGE value="Initial code" />
     <MESSAGE value="Test - Push and Pop functions" />
     <MESSAGE value="delegate- Field to hold ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="delegate- Field to hold ArrayList" />
+    <MESSAGE value="Remove inheritance" />
+    <MESSAGE value="Added test" />
+    <MESSAGE value="Modified test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified test" />
   </component>
 </project>
