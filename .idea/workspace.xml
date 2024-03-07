@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4163215-ae17-470c-8543-c1eed7b56463" name="Changes" comment="Modified test">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyStack.java" afterDir="false" />
+    <list default="true" id="a4163215-ae17-470c-8543-c1eed7b56463" name="Changes" comment="Test 2 for size - fail (expected)">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709768219484</updated>
-      <workItem from="1709768220569" duration="4081000" />
+      <workItem from="1709768220569" duration="4463000" />
     </task>
     <task id="LOCAL-00001" summary="Initial code">
       <created>1709768445560</created>
@@ -115,7 +115,28 @@
       <option name="project" value="LOCAL" />
       <updated>1709772074864</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add internal methods to Stack">
+      <created>1709772503713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709772503713</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test 1 pass - size">
+      <created>1709772545943</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709772545943</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test 2 for size - fail (expected)">
+      <created>1709772600345</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709772600345</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +149,9 @@
     <MESSAGE value="Remove inheritance" />
     <MESSAGE value="Added test" />
     <MESSAGE value="Modified test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified test" />
+    <MESSAGE value="Add internal methods to Stack" />
+    <MESSAGE value="Test 1 pass - size" />
+    <MESSAGE value="Test 2 for size - fail (expected)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 2 for size - fail (expected)" />
   </component>
 </project>
